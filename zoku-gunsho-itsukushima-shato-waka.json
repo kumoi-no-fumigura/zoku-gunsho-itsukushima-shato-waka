@@ -627,6 +627,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 6,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-itsukushima-shato-waka",
   "work": "厳島社頭和歌",
@@ -639,7 +643,7 @@
   "blocks": 6,
   "chars": 1784,
   "poems": 35,
-  "yaku": 0,
+  "yaku": 6,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T01:59:35+09:00"
